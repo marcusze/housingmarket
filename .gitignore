@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Exclude the pickle working as db
+all_booli_data
+
+# Mac filesystem
+.DS_Store
